@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 어이 반갑고 👋
 
 <!--
 **yangpa043/yangpa043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
